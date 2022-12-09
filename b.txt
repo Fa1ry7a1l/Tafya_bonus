@@ -1,0 +1,9 @@
+      a     b     c
+->(A)   AB    -     Z
+  (AB)  ABZ   -     Z
+  (Z)   -     Z     B
+  (ABZ) ABZ   Z     BZ
+  B     AZ    -     -
+  (BZ)  AZ    Z     B
+  (AZ)  AB    Z     BZ
+    Y   -   -   -

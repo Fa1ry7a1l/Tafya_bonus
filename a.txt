@@ -1,0 +1,8 @@
+      a     b     c    
+->(A)   AB    -     C
+  (AB)  ABC   -     C
+  (ABC) ABC   C     BC
+  (C)   -     C     B
+  B     AC    -     -
+  (AC)  AB    C     BC
+  (BC)  AC    C     B
